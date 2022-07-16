@@ -1,4 +1,21 @@
- 
+ <h1 align="center">Hi <img src="https://github.com/mohamudmmc/mohamudmmc/blob/main/Wave.gif" height="55px" width="55px">, I'm  Mohamud Mohamed Abdalla</h1>
+<h3 align="center">¯\_(ツ)_/¯
+
+Programmer | Cybersecurity | Learner
+
+?></h3>
+
+- 🔭 I’m currently working on **some projects about web development**
+
+- 🌱 I’m currently learning **cybersecurity and front-end languages**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **maxamuudag2255@gmail.com**
+
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
  
  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="ryihan" /></h2>
 <p align="center">
