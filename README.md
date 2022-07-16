@@ -3,13 +3,13 @@
  <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=ryihan&label=Profile%20views&color=0e75b6&style=flat" alt="ryihan" /></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamudmmc/">
-    <img align="center" src="https://github.com/mohamudmmc/mohamudmmc-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
+  <img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" />
   </a>
   <a href="https://instagram.com/mohamoudmmc">
-    <img align="center" src="https://github.com/mohamudmmc/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Instagram/instagram.svg" alt="instagram" />
   </a>
   <a href="maxamuudag2255@gmail.com">
-    <img align="center" src="https://github.com/mohamudmmc/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
  
 </p>
 
