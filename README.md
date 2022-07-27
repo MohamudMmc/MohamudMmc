@@ -2,11 +2,9 @@
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Cybersecurity | Learner
-<p> Hooyo Halima 
- <h1 style="background-color:lue;">Hooyo Halima/h1>
-  <p/>
-
-
+ 
+<p style="background-color:Tomato;">Hooyo Halima</p>
+ 
 ?></h3>
 
 - 🔭 I’m currently working on **some projects about web development**
