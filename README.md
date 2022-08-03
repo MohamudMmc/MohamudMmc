@@ -1,11 +1,8 @@
  <h1 align="center">Hi <img src="https://github.com/mohamudmmc/mohamudmmc/blob/main/Wave.gif" height="55px" width="55px">, I'm  Mohamud Mohamed Abdalla</h1>
-<h3 align="center">¯\_(ツ)_/¯
-
+<h3 align="center">
 Programmer | Cybersecurity | Learner
- 
-<p style="background-color:Tomato;">Hooyo Halima</p>
- 
-?></h3>
+<p style="color:yellow;">Hooyo Haliima.</p>
+</h3>
 
 - 🔭 I’m currently working on **some projects about web development**
 
